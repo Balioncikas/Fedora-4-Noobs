@@ -393,7 +393,7 @@ curl -sS https://starship.rs/install.sh | sh
 I like to use Fish shell.
 
 ```bash
-sudo dnf install fish fastfetch -y
+sudo dnf install fish -y
 ```
 
 So lets make it default shell.
