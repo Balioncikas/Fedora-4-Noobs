@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Fedora-43+-blue.svg?style=for-the-badge&logo=fedora" alt="Fedora badge">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge" alt="Maintenance badge">
+    <img src="https://img.shields.io/badge/Maintained%3F-no-brightgreen.svg?style=for-the-badge" alt="Maintenance badge">
   </a>
 </p>
 
